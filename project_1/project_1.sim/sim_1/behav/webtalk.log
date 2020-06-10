@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Wed Apr 24 22:35:25 2019
+# Process ID: 4860
+# Log file: H:/college/Subjects/SEM 6/VLSI_ALA/project_1/project_1.sim/sim_1/behav/webtalk.log
+# Journal file: H:/college/Subjects/SEM 6/VLSI_ALA/project_1/project_1.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source H:/college/Subjects/SEM -notrace
+couldn't read file "H:/college/Subjects/SEM": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Wed Apr 24 22:35:25 2019...
